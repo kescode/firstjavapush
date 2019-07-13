@@ -6,6 +6,8 @@ public class helloworldcode {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World!");
+		
+		System.out.println("It's Saturday.");
 	}
 
 }
